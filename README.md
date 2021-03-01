@@ -17,3 +17,7 @@
 * Linear Regression: https://www.youtube.com/watch?v=66z_MRwtFJM
 * Linear Regression Assumptions: https://www.youtube.com/watch?v=eTZ4VUZHzxw
 * Multiple Linear Regression: https://www.youtube.com/watch?v=q1RD5ECsSB0
+
+# Images for Project 1:
+![] https://github.com/E-Whittaker/Evan_Whittaker_Portfolio/blob/main/Images/RB_Points.png
+![] https://github.com/E-Whittaker/Evan_Whittaker_Portfolio/blob/main/Images/Data.png
