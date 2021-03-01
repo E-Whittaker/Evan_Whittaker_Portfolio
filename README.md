@@ -19,5 +19,5 @@
 * Multiple Linear Regression: https://www.youtube.com/watch?v=q1RD5ECsSB0
 
 # Images for Project 1:
-![Regression] (RB_Points.png)
-![Diagnostic Plots] (Data.png)
+![Regression](RB_Points.png)
+![Diagnostic Plots](Data.png)
