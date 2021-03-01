@@ -5,7 +5,7 @@
 * Assigned weightings to each statistical category to determine overall performance by-way of point system (ex. Touchdown + 6pts, Fumble - 2pts).
 * Scraped FootbballReference.com for 2020 NFL statistics by position
 * Cleaned the data using Google Sheets due to the manageable data size
-* Performed multiple linear regression to determine the relationship between runnning back points produced & a number of explanatory variables.
+* Performed multiple linear regression to determine the relationship between running back points produced & a number of explanatory variables.
 
 ## Code & Resources Used
 * **R Studio version 4.0.4**
