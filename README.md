@@ -8,8 +8,8 @@
 ## Code & Resources Used
 * **R Studio version 4.0.4**
 * **Google Sheets**
-* Scraping Resource: https://www.parsehub.com/blog/web-scraping-techniques/ **
-* Data Source: https://stathead.com/football/psl_finder.cgi ** 
+* Scraping Resource: https://www.parsehub.com/blog/web-scraping-techniques/ 
+* Data Source: https://stathead.com/football/psl_finder.cgi 
 
 ## Youtube Statistical Model Walkthroughs
 * Linear Regression: https://www.youtube.com/watch?v=66z_MRwtFJM
