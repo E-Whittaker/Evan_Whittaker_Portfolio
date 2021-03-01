@@ -1,7 +1,6 @@
-# NFL Positional Analysis Porjects: Evan Whittaker
-Determines which statistical categories hold the most statistical significance to performance
+# Evan Whittaker Project Portfolio 
 
-# [NFL Statistical Analysis: Running Back] (https://e-whittaker.github.io/NFL-Positional-Analysis/)
+# Project 1: [NFL Statistical Analysis: Running Back] (https://e-whittaker.github.io/NFL-Positional-Analysis/)
 * Conducted analysis to determine what statistical categories have the most significance on Running Back production.
 * Assigned weightings to each statistical category to determine overall performance by-way of point system (ex. Touchdown + 6pts, Fumble - 2pts).
 * Scraped FootbballReference.com for 2020 NFL statistics by position
