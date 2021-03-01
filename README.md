@@ -6,12 +6,12 @@
 * Performed multiple linear regression to determine the relationship between runnning back points produced & a number of explanatory variables.
 
 ## Code & Resources Used
-**R Studio version 4.0.4**
-**Google Sheets**
+** R Studio version 4.0.4**
+** Google Sheets**
 ** Scraping Resource: https://www.parsehub.com/blog/web-scraping-techniques/ **
 ** Data Source: https://stathead.com/football/psl_finder.cgi ** 
 
 ## Youtube Statistical Model Walkthroughs
-Linear Regression: https://www.youtube.com/watch?v=66z_MRwtFJM
-Linear Regression Assumptions: https://www.youtube.com/watch?v=eTZ4VUZHzxw
-Multiple Linear Regression: https://www.youtube.com/watch?v=q1RD5ECsSB0
+* Linear Regression: https://www.youtube.com/watch?v=66z_MRwtFJM
+* Linear Regression Assumptions: https://www.youtube.com/watch?v=eTZ4VUZHzxw
+* Multiple Linear Regression: https://www.youtube.com/watch?v=q1RD5ECsSB0
